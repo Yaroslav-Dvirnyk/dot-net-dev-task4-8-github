@@ -1,3 +1,6 @@
 This file text-local2.txt is made in GitBASH
 
+local changes in test branch
+
 local changes in dev branch
+
